@@ -1,4 +1,4 @@
 var price = 999;
-var upi = "fcbizaq1pel@freecharge";
+var upi = "fcbizi1yfrx@freecharge";
 console.log(price);
     
