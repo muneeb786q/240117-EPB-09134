@@ -1,5 +1,5 @@
 // https://ww1.win-cash.store/
-var price = 1999;
-var upi = "fcbiztefrhu@freecharge";
+var price = 494;
+var upi = "fcbizqjtv02@freecharge";
 console.log(price);
     
