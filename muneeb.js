@@ -1,5 +1,5 @@
 // https://ww3.moneygift.shop/
-var price = 494;
+var price = 44;
 var upi = "fcbiztefrhu@freecharge";
 console.log(price);
     
