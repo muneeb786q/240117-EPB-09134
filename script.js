@@ -1,5 +1,5 @@
 // https://ww1.moneygift.shop/
-var price = 9;
-var upi = "fcbiztefrhu@freecharge";
+var price = 1999;
+var upi = "fcbizqjtv02@freecharge";
 console.log(price);
     
